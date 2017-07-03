@@ -11,6 +11,7 @@ __version__ = "1.3"
 
 
 # vRealize Orchestrator server workflow hostname:port (default port is 8281)
+# Start here adding additional variables for vRO instances
 VROHOSTNAME = ''
 
 ##########################################################################################
